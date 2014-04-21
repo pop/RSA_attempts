@@ -1,3 +1,14 @@
+-------------------------------
+-- This was my first attempt at an implementation of RSA in Lua.
+-- It was a failure and I'm not going to comment this code.
+-- If you want to read it, be my guest
+-- but if you ask me, you've got better things you could be doing right now...
+-- ...
+-- like not reading my crappy code...
+--
+-- -Elijah Voigt
+-------------------------------
+
 t = {}
 -- io.write("Please enter a max random number value: ")
 max = (os.time() % arg[1])
