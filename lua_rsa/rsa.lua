@@ -89,4 +89,4 @@ print_output(c)
 -- 'M' is the decrypted message 'C'
 m = decrypt(c, d, n)
 io.write("decrypted encrypted message = ")
-print_output(m)
+k.print_output(m)
